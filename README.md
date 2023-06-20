@@ -37,7 +37,7 @@ git commit -m [fix](登录按钮多次调用接口)
 
 ### 简介
 
-[Vue-Vquasar-Admin](https://git.it.hoyuan.com:40443/SJ-00203/vquasar)是一个基于[Vue3.0](https://github.com/vuejs/core)、[quasar 中文](https://www.quasar-cn.cn/start/pick-quasar-flavour)、[TypeScript](https://www.typescriptlang.org/) 的后台解决方案，作为项目的启动模版，以帮助你快速搭建企业级中后台产品原型。
+[Vue-Vquasar-Admin](https://github.com/muddledXiaohu/viteQuasar)是一个基于[Vue3.0](https://github.com/vuejs/core)、[quasar 中文](https://www.quasar-cn.cn/start/pick-quasar-flavour)、[TypeScript](https://www.typescriptlang.org/) 的后台解决方案，作为项目的启动模版，以帮助你快速搭建企业级中后台产品原型。
 
 #### 本地运行文档
 
@@ -45,7 +45,7 @@ git commit -m [fix](登录按钮多次调用接口)
 
 ```
 # 拉取代码
-git clone https://git.it.hoyuan.com:40443/SJ-00203/vquasar
+git clone https://github.com/muddledXiaohu/viteQuasar
 
 # 安装依赖
 yarn
