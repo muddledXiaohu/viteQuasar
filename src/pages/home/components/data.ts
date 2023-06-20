@@ -1,0 +1,57 @@
+export const listData = [{
+  title: '设备A',
+  date: '2020-05-05',
+  hot: '紧急'
+}, {
+  title: '设备Acwqe',
+  date: '2020-05-02',
+  hot: '一般'
+}, {
+  title: 'A01-cdes',
+  date: '2020-05-02',
+  hot: '一般'
+}, {
+  title: 'A01-cdes',
+  date: '2020-04-25',
+  hot: '一般'
+}, {
+  title: 'A01-cdes',
+  date: '2020-04-21',
+  hot: '特急'
+}, {
+  title: '设备Acwqe',
+  date: '2020-04-20',
+  hot: '一般'
+}, {
+  title: '设备BBBB',
+  date: '2020-04-01',
+  hot: '一般'
+}, {
+  title: '设备CCCCCCC',
+  date: '2020-03-25',
+  hot: '一般'
+}, {
+  title: '设备ddddddddddddddd',
+  date: '2020-03-16',
+  hot: '一般'
+}, {
+  title: '设备ee',
+  date: '2020-03-12',
+  hot: '紧急'
+}, {
+  title: '设备123',
+  date: '2020-02-28',
+  hot: '紧急'
+}, {
+  title: '设备123设备123',
+  date: '2020-02-15',
+  hot: '一般'
+}, {
+  title: '设备123123321123',
+  date: '2020-02-10',
+  hot: '一般'
+}, {
+  title: '设备1045',
+  date: '2020-02-08',
+  hot: '一般'
+}]
